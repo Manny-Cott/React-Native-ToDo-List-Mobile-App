@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "453692722390",
+    "firebase_url": "https://testing123-f432a.firebaseio.com",
+    "project_id": "testing123-f432a",
+    "storage_bucket": "testing123-f432a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453692722390:android:1fe28c331b055bc1",
+        "android_client_info": {
+          "package_name": "com.testing123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453692722390-9dogdolki3imt1hkfo4hvf3vgtjfq1et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-yM5lnQHZJ3UsuRwAKVlUJswk51qJa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
