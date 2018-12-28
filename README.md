@@ -1,7 +1,7 @@
 # React-Native-ToDo-List-Mobile-App
 Cross platform Android and IOS app written in react-native
 
-![alt text](screenshots/screenshot.png "Description goes here")
+![alt text](Screenshots/screenshot.png "Description goes here")
 
 A demo to-do list mobile app that I created for a education company named Graspie. Written in React-Native.
 Mainly javascript and css style written code.
