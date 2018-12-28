@@ -9,5 +9,6 @@ with 'xxxxx'.
 
 To get full functionality you can easily create your own firebase realtime database for free and add your credential information in place of it and it will run fine.
 
+Potential Employers if wanted I can send .apk file personally.
 Any questions feel free to ask!
 
